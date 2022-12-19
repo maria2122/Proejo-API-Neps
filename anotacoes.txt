@@ -1,7 +1,7 @@
 JWT Tokens
 
 Minha Definição:
-Nem todas as informações em uma API pode estar disponíveis para todos usuários(um exemplo: usuário e senha).
+Nem todas as informações em uma API podem estarem disponíveis para todos usuários(um exemplo: usuário e senha).
 Com isso, as APIs procuram meios de fornecer recursos de forma que essas informações sejam transitadas de maneira segura. 
 Uma delas é o JWT ou JSON Web Token, que é basicamente um token gerado(encriptado) a partir de um objeto JSON enviado na requisição.
 
